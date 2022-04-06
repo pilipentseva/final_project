@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="11.0">
+        <id>25499274</id>
+        <purchaseNumber>0101200007320000078</purchaseNumber>
+        <docPublishDate>2021-01-12T15:23:29.572+03:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0101200007320000078</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0101200007320000078</url>
+        </printForm>
+        <purchaseObjectInfo>Оказание услуг по техническому обслуживанию и текущему ремонту автомобилей</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>01012000073</regNum>
+                <consRegistryNum>802Р1007</consRegistryNum>
+                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                <postAddress>Российская Федерация, 105066, Москва, УЛИЦА ДОБРОСЛОБОДСКАЯ, ДОМ 6/СТРОЕНИЕ 2</postAddress>
+                <factAddress>Российская Федерация, 105066, Москва, УЛИЦА ДОБРОСЛОБОДСКАЯ, ДОМ 6/СТРОЕНИЕ 2</factAddress>
+                <INN>7708026538</INN>
+                <KPP>770101001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 105066, Москва, УЛИЦА ДОБРОСЛОБОДСКАЯ, ДОМ 6/СТРОЕНИЕ 2</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 105066, Москва, УЛИЦА ДОБРОСЛОБОДСКАЯ, ДОМ 6/СТРОЕНИЕ 2</orgFactAddress>
+                <contactPerson>
+                    <lastName>ДЕМИДОВА</lastName>
+                    <firstName>ОКСАНА</firstName>
+                    <middleName>ВЛАДИМИРОВНА</middleName>
+                </contactPerson>
+                <contactEMail>p10005009@finance.bashkortostan.ru</contactEMail>
+                <contactPhone>7-495-6210707</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_MMVB</code>
+            <name>Национальная электронная площадка</name>
+            <url>http://www.etp-ets.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-12-07T15:44:00+03:00</startDate>
+                <place>Национальная электронная площадка</place>
+                <order>В соответствии со статьей 66 ФЗ № 44 «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд»</order>
+                <endDate>2021-01-25T10:00:00+03:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2021-01-26T00:00:00+03:00</date>
+            </scoring>
+            <bidding>
+                <date>2021-01-27T00:00:00+03:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>600000</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>true</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>01012000073</regNum>
+                        <consRegistryNum>802Р1007</consRegistryNum>
+                        <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                    </customer>
+                    <maxPrice>600000</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>R</kladrType>
+                                <kladrCode>77000000000</kladrCode>
+                                <fullName>Российская Федерация, Москва</fullName>
+                            </kladr>
+                            <deliveryPlace>г Москва, ул Доброслободская, д 6 стр 2 , </deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>с момента подписания контракта по 31.12.2021 г.</deliveryTerm>
+                    <contractGuarantee>
+                        <part>5.0</part>
+                        <procedureInfo>В соответствии со статьей 96 ФЗ № 44 «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд»</procedureInfo>
+                        <settlementAccount>40302810500004000034</settlementAccount>
+                        <personalAccount>05100050090</personalAccount>
+                        <bik>048073001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>202770802653877010100100150670000244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>27708026538770101001</customerCode>
+                        <purchaseNumber>0015</purchaseNumber>
+                        <purchaseOrderNumber>067</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202001012000073001</ns3:plan2020Number>
+                        <ns3:position2020Number>202001012000073001000037</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Бюджет Республики Башкортостан</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>600000</total>
+                                <currentYear>0</currentYear>
+                                <firstYear>600000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <budgetFinancings>
+                            <currentYear>2020</currentYear>
+                            <budgetFinancing>
+                                <KBKCode>80101029900002040244</KBKCode>
+                                <KBKYearsInfo>
+                                    <total>600000</total>
+                                    <currentYear>0</currentYear>
+                                    <firstYear>600000</firstYear>
+                                    <secondYear>0</secondYear>
+                                    <subsecYears>0</subsecYears>
+                                </KBKYearsInfo>
+                            </budgetFinancing>
+                            <totalSum>600000</totalSum>
+                        </budgetFinancings>
+                    </contractExecutionPaymentPlan>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.112</code>
+                        <name>Услуги контрольно-диагностические</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Контрольно-диагностические работы (Ситроен)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3166.67</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3166.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.217</code>
+                        <name>Услуги по ремонту деталей</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Слесарные работы (Ситроен)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3166.67</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3166.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>в соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт узлов и агрегатов (Ситроен)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3166.67</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3166.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Кузовные работы (Ситроен)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3166.67</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3166.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Малярные работы (Ситроен)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3166.67</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3166.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.000</code>
+                        <name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Техническое обслуживание (Ситроен)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3166.67</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3166.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.12.000</code>
+                        <name>Услуги по ремонту электрооборудования легковых автомобилей и легких грузовых автотранспортных средств</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт электрики (Ситроен)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3166.67</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3166.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.13.000</code>
+                        <name>Услуги по ремонту шин легковых автомобилей и легких грузовых автотранспортных средств, включая регулировку и балансировку колес</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Шиномонтаж (Ситроен)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3166.67</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3166.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Расходные материалы и зап. части (Ситроен)
+</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1695661.09</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>1695661.09</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.112</code>
+                        <name>Услуги контрольно-диагностические</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Контрольно-диагностические работы (Хендай Генезис)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.217</code>
+                        <name>Услуги по ремонту деталей</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Слесарные работы (Хендай Генезис)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>в соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт узлов и агрегатов (Хендай Генезис)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Кузовные работы (Хендай Генезис)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Малярные работы (Хендай Генезис)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.000</code>
+                        <name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Техническое обслуживание (Хендай Генезис)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.12.000</code>
+                        <name>Услуги по ремонту электрооборудования легковых автомобилей и легких грузовых автотранспортных средств</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт электрики (Хендай Генезис)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.13.000</code>
+                        <name>Услуги по ремонту шин легковых автомобилей и легких грузовых автотранспортных средств, включая регулировку и балансировку колес</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Шиномонтаж (Хендай Генезис)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Расходные материалы и зап. части (Хендай Генезис)
+</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>4858019.68</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>4858019.68</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.112</code>
+                        <name>Услуги контрольно-диагностические</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Контрольно-диагностические работы (Тойота Камри)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.217</code>
+                        <name>Услуги по ремонту деталей</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Слесарные работы (Тойота Камри)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>в соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт узлов и агрегатов (Тойота Камри)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Кузовные работы (Тойота Камри)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Малярные работы (Тойота Камри)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.000</code>
+                        <name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Техническое обслуживание (Тойота Камри)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.12.000</code>
+                        <name>Услуги по ремонту электрооборудования легковых автомобилей и легких грузовых автотранспортных средств</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт электрики (Тойота Камри)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.13.000</code>
+                        <name>Услуги по ремонту шин легковых автомобилей и легких грузовых автотранспортных средств, включая регулировку и балансировку колес</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Шиномонтаж (Тойота Камри)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Расходные материалы и зап. части (Тойота Камри)
+</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>2797293.36</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>2797293.36</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.112</code>
+                        <name>Услуги контрольно-диагностические</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Контрольно-диагностические работы (Тойота Королла)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.217</code>
+                        <name>Услуги по ремонту деталей</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Слесарные работы (Тойота Королла)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>в соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт узлов и агрегатов (Тойота Королла)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Кузовные работы (Тойота Королла)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Малярные работы (Тойота Королла)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.000</code>
+                        <name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Техническое обслуживание (Тойота Королла)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.12.000</code>
+                        <name>Услуги по ремонту электрооборудования легковых автомобилей и легких грузовых автотранспортных средств</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт электрики (Тойота Королла)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.13.000</code>
+                        <name>Услуги по ремонту шин легковых автомобилей и легких грузовых автотранспортных средств, включая регулировку и балансировку колес</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Шиномонтаж (Тойота Королла)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3300</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3300</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Расходные материалы и зап. части (Тойота Королла)
+</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>306772.33</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>306772.33</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.112</code>
+                        <name>Услуги контрольно-диагностические</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Контрольно-диагностические работы (Хендай Экус)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.217</code>
+                        <name>Услуги по ремонту деталей</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Слесарные работы (Хендай Экус)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>в соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт узлов и агрегатов (Хендай Экус)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Кузовные работы (Хендай Экус)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Малярные работы (Хендай Экус)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.000</code>
+                        <name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Техническое обслуживание (Хендай Экус)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.12.000</code>
+                        <name>Услуги по ремонту электрооборудования легковых автомобилей и легких грузовых автотранспортных средств</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт электрики (Хендай Экус)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.13.000</code>
+                        <name>Услуги по ремонту шин легковых автомобилей и легких грузовых автотранспортных средств, включая регулировку и балансировку колес</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Шиномонтаж (Хендай Экус)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3600</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Расходные материалы и зап. части (Хендай Экус)
+</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>1295595.53</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>1295595.53</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.112</code>
+                        <name>Услуги контрольно-диагностические</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Контрольно-диагностические работы (Ниссан Теана)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3200</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.217</code>
+                        <name>Услуги по ремонту деталей</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Слесарные работы (Ниссан Теана)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3200</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>в соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт узлов и агрегатов (Ниссан Теана)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3200</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Кузовные работы (Ниссан Теана)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3200</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.14.000</code>
+                        <name>Услуги по ремонту кузовов легковых автомобилей и легких грузовых автотранспортных средств и аналогичные услуги (ремонт дверей, замков, окон, перекрашивание, ремонт после повреждений)</name>
+                        <addCharacteristics>В соответствии с техническим заданием
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Малярные работы (Ниссан Теана)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3200</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.000</code>
+                        <name>Услуги по обычному (текущему) техническому обслуживанию и ремонту легковых автомобилей и легких грузовых автотранспортных средств, кроме услуг по ремонту электрооборудования, шин и кузовов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Техническое обслуживание (Ниссан Теана)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3200</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.12.000</code>
+                        <name>Услуги по ремонту электрооборудования легковых автомобилей и легких грузовых автотранспортных средств</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Ремонт электрики (Ниссан Теана)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3200</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.13.000</code>
+                        <name>Услуги по ремонту шин легковых автомобилей и легких грузовых автотранспортных средств, включая регулировку и балансировку колес</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Шиномонтаж (Ниссан Теана)
+</name>
+                    <OKEI>
+                        <code>963</code>
+                        <nationalCode>ПРИВЕД.Ч</nationalCode>
+                        <fullName>Приведенный час</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>3200</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>3200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.20.11.211</code>
+                        <name>Услуги по замене агрегатов</name>
+                        <addCharacteristics>В соответствии с техническим заданием</addCharacteristics>
+                    </OKPD2>
+                    <name>Расходные материалы и зап. части (Ниссан Теана)
+</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <customerQuantities>
+                        <customerQuantity>
+                            <customer>
+                                <regNum>01012000073</regNum>
+                                <consRegistryNum>802Р1007</consRegistryNum>
+                                <fullName>ПОЛНОМОЧНОЕ ПРЕДСТАВИТЕЛЬСТВО РЕСПУБЛИКИ БАШКОРТОСТАН ПРИ ПРЕЗИДЕНТЕ РОССИЙСКОЙ ФЕДЕРАЦИИ</fullName>
+                            </customer>
+                            <quantity>1</quantity>
+                        </customerQuantity>
+                    </customerQuantities>
+                    <price>946233.96</price>
+                    <quantity>
+                        <undefined>true</undefined>
+                    </quantity>
+                    <sum>946233.96</sum>
+                </purchaseObject>
+                <totalSum>12060909.31</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>MP44</shortName>
+                    <name>Субъектам малого предпринимательства, социально ориентированным некоммерческим организациям</name>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам закупок в соответствии с ч. 1 ст. 31 Закона № 44-ФЗ</name>
+                    <content>Требование о соответствии участника электронного аукциона требованиям, установленным пунктами 3-5, 7, 7.1, 9, 10, 11 части 1 статьи 31 Федерального закона №44-ФЗ (В соответствии с пунктом 17.2 Раздела №2 «Общие сведения» документации об электронном аукционе)</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Требование об отсутствии в предусмотренном Федеральным законом № 44-ФЗ реестре недобросовестных поставщиков (подрядчиков, исполнителей) информации об участнике закупки, в том числе информации об учредителях, о членах коллегиального исполнительного органа, лице, исполняющем функции единоличного исполнительного органа участника закупки - юридического лица (в соответствии с частью 1.1 Статьи 31 Федерального закона № 44-ФЗ).</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                    <content>Участники закупки могут быть только субъектами малого предпринимательства или социально ориентированными некоммерческими организациями (в соответствии со ст. 30 Федерального закона № 44-ФЗ)</content>
+                </restriction>
+            </restrictions>
+        </lot>
+        <notificationAttachments>
+            <attachment>
+                <publishedContentId>B8AE2A7E024B4A45E0530F548D0A0B42</publishedContentId>
+                <fileName>ЭД_ АВТОРЕМОНТ И ТО_2021_2.docx</fileName>
+                <fileSize>1.26 Мб</fileSize>
+                <docDescription>ЭД_ АВТОРЕМОНТ И ТО_2021_2</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B8AE2A7E024B4A45E0530F548D0A0B42</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </notificationAttachments>
+        <attachments>
+            <attachment>
+                <publishedContentId>B8AD861481EB6116E0530F548D0AB64D</publishedContentId>
+                <fileName>ЭД_ АВТОРЕМОНТ И ТО_2021_2.docx</fileName>
+                <fileSize>1.26 Мб</fileSize>
+                <docDescription>ЭД_ АВТОРЕМОНТ И ТО_2021_2</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=B8AD861481EB6116E0530F548D0AB64D</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <modification>
+            <modificationNumber>1</modificationNumber>
+            <info>Требования к содержанию и составу заявки </info>
+            <reason>
+                <authorityPrescription>
+                    <externalPrescription>
+                        <authorityName>УФАС г.Москвы</authorityName>
+                        <authorityType>FA</authorityType>
+                        <docName>Предписание</docName>
+                        <docDate>2020-12-28T00:00:00+03:00</docDate>
+                        <docNumber>077/10/104-22745/2020</docNumber>
+                    </externalPrescription>
+                </authorityPrescription>
+            </reason>
+        </modification>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-12-07T15:44:00+03:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2021-01-22T18:00:00+03:00</endDate>
+                <deliveryProcedure>В соответствии со статьей 65 ФЗ № 44 «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд»</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?printFormId=25499274&amp;source=prizPF</ns3:url>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>
